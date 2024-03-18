@@ -1,0 +1,2 @@
+deda = "bella"
+print(deda)
