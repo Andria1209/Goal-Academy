@@ -1,0 +1,6 @@
+Name = input("Enter your Name: ")
+LastName = input("Enter Your LastName: ")
+Age = input("Enter Your Age: ")
+BirthYear = input("Enter Your BirthYear: ")
+Height = input("Enter Your Height: ")
+print("your name is: ", Name,"your surname is: ", LastName,"your age is: ", Age,"your birthyear is: ", BirthYear,"your height is: ", Height)
